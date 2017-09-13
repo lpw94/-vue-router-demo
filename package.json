@@ -1,7 +1,7 @@
 {
-  "name": "my-project",
+  "name": "vue-router-lpw",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "my-vue-demo",
   "author": "",
   "private": true,
   "scripts": {
