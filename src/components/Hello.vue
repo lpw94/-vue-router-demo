@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
   <p>{{msg}}</p>
-   <h1 @click="bb">标题</h1>
+   <h1 @click="bb">标题东风风光过过过过过过过过所多</h1>
     
 
   </div>
